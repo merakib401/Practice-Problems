@@ -13,5 +13,5 @@ console.log(isEven(50));
 function odd (number){
     return (number % 2) === 0;
 }
-console.log(odd(22));
+console.log(odd(23));
 
