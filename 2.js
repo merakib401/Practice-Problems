@@ -6,3 +6,12 @@ function isEven(num){
 }
 
 console.log(isEven(50));
+
+
+// A Function of Checking Odd Number
+
+function odd (number){
+    return (number % 2) === 0;
+}
+console.log(odd(22));
+
